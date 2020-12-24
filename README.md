@@ -1,16 +1,23 @@
-### Hi there 👋
+### Welcome <img alt="FPC" height="24" src="https://www.freepascal.org/pic/logo.gif" />
 
-<!--
-**Coldzer0/Coldzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> - 💻 FreePascal , Delphi ,  C/C++
+> - 🔭 I’m currently working on ..............
+> - 👯 I’m looking to collaborate on [Cmulator](https://github.com/Coldzer0/Cmulator) will convert it to C/C++
+> - 💬 Ask me about any Reverse Engineering topics
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+
+### <a href="#"><img alt="Github" height="24" src="https://www.pngrepo.com/png/303615/180/github-icon-1-logo.png"/></a> GitStatus:
+![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Coldzer0&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true)
+
+
+<br/>
+
+
+<br/>
+
+- 📫 How to reach me: 
+  - Coldzer0[at]protonmail.ch
