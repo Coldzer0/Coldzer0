@@ -3,7 +3,7 @@
 > - 💻 FreePascal , Delphi ,  C/C++
 > - 🔭 I’m currently working on Cmulator.
 > - 👯 I’m looking for collaboration on [Cmulator](https://github.com/Coldzer0/Cmulator) will convert it to C | C++
-> - 💬 Ask me about any Reverse Engineering topics
+> - 💬 Ask me about any Reverse Engineering topic
 
 <br/>
 
