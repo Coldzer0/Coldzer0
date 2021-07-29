@@ -7,7 +7,7 @@
 
 <br/>
 
-![Vincent's github stats](https://github-readme-stats.vercel.app/api?username=Coldzer0&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true)
+![Coldzer0's github stats](https://github-readme-stats.vercel.app/api?username=Coldzer0&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true)
 
 <br/>
 
