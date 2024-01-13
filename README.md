@@ -6,7 +6,6 @@
 
 > - 💻 Writing FreePascal, Delphi and C/C++ most of the time.
 > - 🔭 I’m currently working on [ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal).
-> - 👯 I’m looking for collaboration on [ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal)
 > - 💬 Ask me about any Reverse Engineering related topics
 
 <br>
