@@ -1,5 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coldzer0&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coldzer0&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coldzer0&theme=github_dark)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0BA922&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Pascal+Paradise)](https://git.io/typing-svg)
 <img alt="FPC" height="24" src="https://www.freepascal.org/pic/logo.gif" />
